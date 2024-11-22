@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, i'm Nico!     --this is a test--
+Hello, i'm Nico!     --this is a test-- 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 
    <img src="https://komarev.com/ghpvc/?username=niicooalv&color=green" alt="Profile views" align='right'/> <a href="https://github.com/niicooalv/niicooalv/"> </a> 
@@ -12,7 +12,7 @@ Hello, i'm Nico!     --this is a test--
 <hr>
 
 ```
-adriancastobeiro@gmail.com
+this is a test
 -------------------------
 💻 I am a self taught Full Stack Developer
 📝 I have certified studies and courses
