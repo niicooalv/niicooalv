@@ -128,7 +128,7 @@ You can hire me as a freelancer to deploy your projects on web.
 ## It's not perfect, isn't it?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-**<img alt="Feedback" src="https://iwakuraproductions.files.wordpress.com/2017/02/8.png">**
+
 
   </td>
   </tr>
