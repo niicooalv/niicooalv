@@ -120,7 +120,7 @@ this is a test
 
 If you have any questions about frontend or backend web development, feel free to <a href="mailto:test@test.local">contact me through email</a>.
 
-You can hire me as a freelancer to deploy your projects on web.
+
 
   </td>
   <td width="50%" valign="top">
