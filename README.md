@@ -1,3 +1,5 @@
+<h1 align="center">🚧 Under Construction 🚧</h1>
+
 <h1 align="center">
 Hello, I'm Nico!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
@@ -98,7 +100,3 @@ Hello, I'm Nico!
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <strong>🚧 Under Construction 🚧</strong>
-</p>
