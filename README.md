@@ -63,6 +63,8 @@ Hello, I'm Nico!
     <a href="#"><img alt="Penpot" src="https://img.shields.io/badge/Penpot-%2300E676.svg?logo=penpot&logoColor=white"></a>
     <a href="#"><img alt="Office" src="https://img.shields.io/badge/Office-%23D83B01.svg?logo=office&logoColor=white"></a>
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?logo=excel&logoColor=white"></a>
+    <a href="#"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-Enterprise-purple?style=for-the-badge&logo=odoo&logoColor=white"></a>
+
 </p>
 
 ### 👨🏽‍💻 Workspace
